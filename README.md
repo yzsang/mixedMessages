@@ -1,4 +1,4 @@
-# Mixes Messages
+# Mixed Messages
 
 This is a simple JavaScript project that generates random messages. It was built to practice basic JavaScript concepts and Git workflow.
 
